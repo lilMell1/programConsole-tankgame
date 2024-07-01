@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\oranu\source\repos\Tank game\Tank game\FileName.cpp(84,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tank game.vcxproj -> C:\Users\oranu\source\repos\Tank game\x64\Debug\Tank game.exe
